@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv1=(TextView)findViewById(R.id.textView1);
-        tv1.setText("这是我的第一个Android程序：Hello World!");
+        tv1.setText("这是我的第一个Android程序：Hello World!");//Hello World!
     }
 }
